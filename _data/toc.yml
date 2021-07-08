@@ -5,6 +5,9 @@
       url: "about"
     - title: "Game Engines"
       url: "docs/game-engines"
+      children:
+         - title: Chameleon
+           url: "docs/engines/chameleon"
     - title: "Getting Started"
       url: "docs/getting-started"
       children:
