@@ -18,6 +18,12 @@ This is not a tutorial or help forum on how to make game engines, rather coverin
 
 - Note: I'm not entirely against the idea.
 
+### What about x?
+
+*Why not fandom/mediawiki?*
+
+[I have made a wiki of sorts on fandom](https://gameengine.fandom.com/wiki/Game_Engine_Wiki), but as time has gone on, I don't really like the premise of the site. I want something of my own, not intrusive ads or pop culture suggestions when one is reading deep dives. I did manage to get mediawiki running locally on my machine, but it was quite the hassel - I didn't want to utilize such a powerful yet complex tool with a) practically only me writing things (as of now), and b) there's always another way. I've been inspired by Unreal Engine's Community Wiki in fact, which to me is a nice hybrid of blogging/writing and organizing technical/heavy details.
+
 
 For features, getting started with development, see the {% include doc.html name="Getting Started" path="getting-started" %} page. Would you like to request a feature or contribute?
 [Open an issue]({{ site.repo }}/issues)
