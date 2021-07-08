@@ -4,7 +4,7 @@
     - title: "About"
       url: "about"
     - title: "Game Engines"
-      url: "docs/game-engines"
+      url: "docs/engines"
       children:
          - title: Chameleon
            url: "docs/engines/chameleon"
