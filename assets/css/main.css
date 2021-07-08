@@ -322,6 +322,7 @@ figure {
 img {
     max-width: 100%;
     vertical-align: middle;
+    image-rendering: auto;
     border-style: none
 }
 
