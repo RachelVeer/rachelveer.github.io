@@ -3,7 +3,7 @@ title: Chameleon
 ---
 # Chameleon
 
-![assets/img/HPRemastered-5.jpg](assets/img/HPRemastered-5.jpg)
+![assets/img/docsy-jekyll.png](assets/img/docsy-jekyll.png)
 
 Chameleon was Criterion's flagship engine for Need for Speed: Hot Pursuit, a modified version of it would then power their following title: Need for Speed: Most Wanted (2012).[[1]]
 
