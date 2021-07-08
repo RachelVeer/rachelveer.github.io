@@ -629,6 +629,11 @@ mark,
     height: auto
 }
 
+img[src*="#thumbnail"] {
+   width:150px;
+   height:100px;
+}
+
 .figure {
     display: inline-block
 }
