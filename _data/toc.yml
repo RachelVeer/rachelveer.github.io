@@ -1,6 +1,10 @@
 - title: Documentation
   url: docs
   links:
+    - title: "About"
+      url: "about"
+    - title: "Game Engines"
+      url: "docs/game-engines"
     - title: "Getting Started"
       url: "docs/getting-started"
       children:
@@ -17,7 +21,5 @@
           url: "docs/extras/example-quiz"
         - title: Tags Page
           url: "tags"
-    - title: "About"
-      url: "about"
     - title: "News"
       url: "news"
