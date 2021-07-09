@@ -320,9 +320,7 @@ figure {
 }
 
 img {
-    max-width: 100%;
     vertical-align: middle;
-    image-rendering: auto;
     border-style: none
 }
 
@@ -627,11 +625,6 @@ mark,
     box-shadow: 0 1px 2px rgba(0, 0, 0, .075);
     max-width: 100%;
     height: auto
-}
-
-img[src*="#thumbnail"] {
-   width:150px;
-   height:100px;
 }
 
 .figure {
