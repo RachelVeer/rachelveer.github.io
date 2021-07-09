@@ -31,7 +31,13 @@ One of those reasons being that Criterion wanted a 30hz game that not only looke
 
 Also, the architecture of the engine was new, and all about how the game modules communicated with another. Basing all of these new instances upon experience and knowledge Criterion learned, the ideas behind Paradise were implemented differently this time around - that sums up the new engine; unique to their newfound philosophy.
 
-<!-- Sources -->
+# Sources
+1. ["Need for Speed on Twitter: *It's an evolved engine*"](https://twitter.com/needforspeed/status/225615557972606976)
+2. ["Need for Speed: FLOOR IT IN NEED FOR SPEED™ HOT PURSUIT REMASTERED ON NOVEMBER 6"](https://www.ea.com/games/need-for-speed/need-for-speed-hot-pursuit-remastered/news/announcing-nfs-hp-remastered?utm_campaign=nfshpr_hd_ww_ic_soco_twt_tw-nfs-hp-remastered&utm_source=twitter&utm_medium=social&cid=65639&ts=1601910197242)
+3. ["Digital Foundry - Tech Interview: Need for Speed: Hot Pursuit • Page 2"](https://www.eurogamer.net/articles/digitalfoundry-needforspeed-tech-interview?page=2)
+4. ["Digital Foundry - Tech Interview: Need for Speed: Hot Pursuit"](https://www.eurogamer.net/articles/digitalfoundry-needforspeed-tech-interview)
+
+<!-- Hidden Sources for Wiki-like References. -->
 [1]: <https://twitter.com/needforspeed/status/225615557972606976> "Need for Speed on Twitter: 'It's an evolved engine'"
 [2]: <https://www.ea.com/games/need-for-speed/need-for-speed-hot-pursuit-remastered/news/announcing-nfs-hp-remastered?utm_campaign=nfshpr_hd_ww_ic_soco_twt_tw-nfs-hp-remastered&utm_source=twitter&utm_medium=social&cid=65639&ts=1601910197242>  "Need for Speed: FLOOR IT IN NEED FOR SPEED™ HOT PURSUIT REMASTERED ON NOVEMBER 6"
 [3]: <https://www.eurogamer.net/articles/digitalfoundry-needforspeed-tech-interview?page=2> "Digital Foundry - Tech Interview: Need for Speed: Hot Pursuit • Page 2"
